@@ -1,0 +1,21 @@
+.experiencesFrame {
+    background-color: #E5E9EC;
+    height: auto;
+    width: 100vw;
+}
+
+.xpHeaderFrame {
+    /* background-color: burlywood; */
+    /* height: 10%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lowerFrame {
+    /* height: 90%; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative; */
+}

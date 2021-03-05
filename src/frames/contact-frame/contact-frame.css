@@ -1,0 +1,25 @@
+.contactFrame {
+    background-color: #E5E9EC;
+    height: 40vh;
+    width: 100vw;
+}
+
+.contactHeaderFrame {
+    /* background-color: burlywood; */
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lowerContactFrame {
+    margin-top: 100px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactText {
+}

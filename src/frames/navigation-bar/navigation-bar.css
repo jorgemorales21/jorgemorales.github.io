@@ -1,0 +1,21 @@
+.navBarFrame {
+    position: fixed;
+    background-color: #2E2C2D;
+    width: 100vw;
+    height: 8vh;
+}
+
+.textFrame {
+    /* background-color: violet; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 45%;
+    height: 100%;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.3em;
+    position: absolute;
+    right: 0;
+}
