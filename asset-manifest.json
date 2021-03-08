@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.550a1a2d.chunk.css",
+    "main.js": "/static/js/main.87db5d17.chunk.js",
+    "main.js.map": "/static/js/main.87db5d17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1be70c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1be70c3.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.ec360019.chunk.js": "/static/js/2.ec360019.chunk.js",
+    "static/js/2.ec360019.chunk.js.map": "/static/js/2.ec360019.chunk.js.map",
+    "static/js/3.81045922.chunk.js": "/static/js/3.81045922.chunk.js",
+    "static/js/3.81045922.chunk.js.map": "/static/js/3.81045922.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.550a1a2d.chunk.css.map": "/static/css/main.550a1a2d.chunk.css.map",
+    "static/js/2.ec360019.chunk.js.LICENSE.txt": "/static/js/2.ec360019.chunk.js.LICENSE.txt",
+    "static/media/bearmaps.3923b7e5.png": "/static/media/bearmaps.3923b7e5.png",
+    "static/media/email-icon.ab75f124.svg": "/static/media/email-icon.ab75f124.svg",
+    "static/media/facebook-icon.92ce532d.svg": "/static/media/facebook-icon.92ce532d.svg",
+    "static/media/github-icon.bceee2ef.svg": "/static/media/github-icon.bceee2ef.svg",
+    "static/media/ig-logo.7a25ecd8.svg": "/static/media/ig-logo.7a25ecd8.svg",
+    "static/media/jorge.791f9290.jpg": "/static/media/jorge.791f9290.jpg",
+    "static/media/line1.cdc81f8e.svg": "/static/media/line1.cdc81f8e.svg",
+    "static/media/line2.1aafd5c9.svg": "/static/media/line2.1aafd5c9.svg",
+    "static/media/line3.60072b5d.svg": "/static/media/line3.60072b5d.svg",
+    "static/media/line4.c3c6de58.svg": "/static/media/line4.c3c6de58.svg",
+    "static/media/line5.23b80c78.svg": "/static/media/line5.23b80c78.svg",
+    "static/media/linkedin-icon.d90a24c6.svg": "/static/media/linkedin-icon.d90a24c6.svg",
+    "static/media/sudoku copy.d5c253b8.png": "/static/media/sudoku copy.d5c253b8.png",
+    "static/media/tgif-3.e133fd19.png": "/static/media/tgif-3.e133fd19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1be70c3.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.ec360019.chunk.js",
+    "static/css/main.550a1a2d.chunk.css",
+    "static/js/main.87db5d17.chunk.js"
+  ]
+}
