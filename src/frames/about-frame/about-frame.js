@@ -5,7 +5,7 @@ import "./about-frame.css";
 
 function AboutFrame() {
     return(
-        <div className = 'aboutFrame'>
+        <div className = 'aboutFrame' id='about'>
             <div className='topFrame'>
                 <Header text='a little bit about me'/>
             </div>
@@ -16,7 +16,7 @@ function AboutFrame() {
                         <span className='berkeley'> UC Berkeley</span>.
                     </div>
                     <div className='text2'>
-                        I was born and raised in San Diego, CA so moving to the
+                        I'm from San Diego, CA so moving to the
                         bay area brought its own set of weather challenges.
                     </div>
                     <div className='text3'>

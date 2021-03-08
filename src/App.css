@@ -1,7 +1,10 @@
 .title {
-  background-color: blueviolet;
   color: white;
   border: 2px solid black;
   width: 1000px;
   height: 300px;
+}
+
+html {
+  scroll-behavior: smooth;
 }

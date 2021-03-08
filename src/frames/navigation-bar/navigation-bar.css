@@ -3,6 +3,8 @@
     background-color: #2E2C2D;
     width: 100vw;
     height: 8vh;
+    z-index: 99;
+    top: 0;
 }
 
 .textFrame {
@@ -18,4 +20,15 @@
     font-size: 1.3em;
     position: absolute;
     right: 0;
+}
+
+.navBarFrame a {
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+.navBarFrame a {
+    
 }

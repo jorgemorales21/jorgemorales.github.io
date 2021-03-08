@@ -6,14 +6,17 @@
 
 .xpHeaderFrame {
     /* background-color: burlywood; */
-    /* height: 10%; */
+    height: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .lowerFrame {
-    /* height: 90%; */
+    /* background-color: aquamarine; */
+    height: 0%;
+    padding-top: 80px;
+    padding-bottom: 80px;;
     /* display: flex;
     align-items: center;
     justify-content: center;

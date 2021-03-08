@@ -6,20 +6,42 @@
 
 .contactHeaderFrame {
     /* background-color: burlywood; */
-    height: 10%;
+    height: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .lowerContactFrame {
-    margin-top: 100px;
+    /* background-color: aqua; */
+    height: 80%;
+    margin-top: 30px;
     font-family: 'Oswald', sans-serif;
     font-size: 2em;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.contactText {
+.socialMediaFrame {
+    position: relative;
+    background-color: #E5E9EC;
+    width: 100%;
+    height: 100vh;
+    /* background-color: chartreuse; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.backToTopContainer {
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+}
+
+.backToTopIcon {
+    height: 5vh;
+    width: auto;
 }

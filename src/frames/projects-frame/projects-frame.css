@@ -26,6 +26,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-left: 40px;
 }
 
 .leftProjectFrame {
@@ -49,46 +50,103 @@
     flex-direction: column;
 }
 
-.project1Container {
-    font-size: 2em;
+.project1FrontContainer {
+    width: 400px;
+    height: 410px;
+    font-size: 2.5em;
     background-color: #568EA3;
     font-family: 'Oswald', sans-serif;
     color: white;
+    /* height: auto;
+    width: auto; */
 }
 
-.project2Container {
+.project1BackContainer {
+    width: 400px;
+    height: 410px;
+    background-color: #568EA3;
+    font-size: 1.5em;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.project2FrontContainer {
+    width: 400px;
+    height: 410px;
     font-family: 'Bubblegum Sans', cursive;
     background-color: #4A7B9D;
-    font-size: 2em;
+    font-size: 3em;
     color: white;
 }
 
-.project3Container {
+.project2BackContainer {
+    width: 400px;
+    height: 410px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #4A7B9D;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+}
+
+.project3FrontContainer {
+    width: 400px;
+    height: 410px;
     font-family: 'Oswald', sans-serif;
     background-color: #49748C;
-    font-size: 2em;
+    font-size: 3em;
     color: white;
+}
+
+.project3BackContainer {
+    width: 400px;
+    height: 410px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #49748C;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
 }
 
 .imgContainer1 {
     margin-top: 20px;
-    height: 45%;
+    height: 48%;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 30px;
     /* background-color:turquoise; */
 }
 
 .imgContainer2 {
-    height: 80%;
+    height: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .imgContainer3 {
-    height: 80%;
+    height: 90%;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.sudokuPic {
+    height: 180px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.bearmapsPic {
+    height: 200px;
+    width: auto;
+    border-radius: 0px;
+}
+
+.backText {
+    padding-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 }

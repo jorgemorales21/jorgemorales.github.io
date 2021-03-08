@@ -19,34 +19,32 @@
     height: 75%;
     display: flex;
     flex-direction: row;
-
 }
 
 .leftFrame {
     /* background-color: blanchedalmond; */
     height: 100%;
-    width: 70%;
+    width: 75%;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1.5em;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .text1 {
     /* background-color: purple; */
+    padding-left: 40px;
 }
 
 .text2 {
     /* background-color: cadetblue; */
-    padding-left: 90px;
+    padding-left: 85px;
 }
 
 .text3 {
     /* background-color: coral; */
-    padding-left: 180px;
+    padding-left: 40px;
 }
 
 .berkeley {
@@ -56,17 +54,17 @@
 .rightFrame {
     /* background-color: brown; */
     height: 100%;
-    width: 30%;
+    width: 25%;
     display: flex;
     flex-direction: column;
 }
 
 .imgContainer {
-    margin-top: -0.5em;
     height: 80%;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 10px;
 }
 
 .profilePic {

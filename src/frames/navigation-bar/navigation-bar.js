@@ -5,7 +5,12 @@ function NavigationBar() {
     return(
         <div className='navBarFrame'>
             <div className='textFrame'>
-                <div className='about'>
+                <a href='#about'>about</a>
+                <a href='#experiences'>experience</a>
+                <a href='#projects'>projects</a>
+                <a href='#contact'>contact</a>
+                
+                {/* <div className='about'>
                     about
                 </div>
                 <div className='experience'>
@@ -16,7 +21,7 @@ function NavigationBar() {
                 </div>
                 <div className='contact'>
                     contact
-                </div>
+                </div> */}
             </div>
         </div>
     );
