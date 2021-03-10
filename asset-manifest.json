@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.550a1a2d.chunk.css",
+    "main.css": "/static/css/main.055c5ee2.chunk.css",
     "main.js": "/static/js/main.87db5d17.chunk.js",
     "main.js.map": "/static/js/main.87db5d17.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1be70c3.js",
@@ -12,7 +12,7 @@
     "static/js/3.81045922.chunk.js.map": "/static/js/3.81045922.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.550a1a2d.chunk.css.map": "/static/css/main.550a1a2d.chunk.css.map",
+    "static/css/main.055c5ee2.chunk.css.map": "/static/css/main.055c5ee2.chunk.css.map",
     "static/js/2.ec360019.chunk.js.LICENSE.txt": "/static/js/2.ec360019.chunk.js.LICENSE.txt",
     "static/media/bearmaps.3923b7e5.png": "/static/media/bearmaps.3923b7e5.png",
     "static/media/email-icon.ab75f124.svg": "/static/media/email-icon.ab75f124.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.b1be70c3.js",
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.ec360019.chunk.js",
-    "static/css/main.550a1a2d.chunk.css",
+    "static/css/main.055c5ee2.chunk.css",
     "static/js/main.87db5d17.chunk.js"
   ]
 }
