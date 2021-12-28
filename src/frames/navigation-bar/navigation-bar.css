@@ -29,6 +29,8 @@
     text-decoration: none;
 }
 
-.navBarFrame a {
-    
+.navBarFrame a:hover {
+    color: #4A7B9D;
+    /* text-decoration: underline; */
+    /* text-decoration-color: black; */
 }

@@ -12,7 +12,7 @@ function AboutFrame() {
             <div className='bottomFrame'>
                 <div className='leftFrame'>
                     <div className='text1'>
-                        I’m a 2nd-year studying computer science at
+                        I’m a 3rd-year studying computer science at
                         <span className='berkeley'> UC Berkeley</span>.
                     </div>
                     <div className='text2'>
