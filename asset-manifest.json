@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.055c5ee2.chunk.css",
-    "main.js": "/static/js/main.87db5d17.chunk.js",
-    "main.js.map": "/static/js/main.87db5d17.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1be70c3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1be70c3.js.map",
+    "main.css": "/static/css/main.5637f433.chunk.css",
+    "main.js": "/static/js/main.ac48c132.chunk.js",
+    "main.js.map": "/static/js/main.ac48c132.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c6acf1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c6acf1e.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/static/css/2.2aa38b9c.chunk.css",
-    "static/js/2.ec360019.chunk.js": "/static/js/2.ec360019.chunk.js",
-    "static/js/2.ec360019.chunk.js.map": "/static/js/2.ec360019.chunk.js.map",
-    "static/js/3.81045922.chunk.js": "/static/js/3.81045922.chunk.js",
-    "static/js/3.81045922.chunk.js.map": "/static/js/3.81045922.chunk.js.map",
+    "static/js/2.7b5d8c9d.chunk.js": "/static/js/2.7b5d8c9d.chunk.js",
+    "static/js/2.7b5d8c9d.chunk.js.map": "/static/js/2.7b5d8c9d.chunk.js.map",
+    "static/js/3.223b37d7.chunk.js": "/static/js/3.223b37d7.chunk.js",
+    "static/js/3.223b37d7.chunk.js.map": "/static/js/3.223b37d7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.055c5ee2.chunk.css.map": "/static/css/main.055c5ee2.chunk.css.map",
-    "static/js/2.ec360019.chunk.js.LICENSE.txt": "/static/js/2.ec360019.chunk.js.LICENSE.txt",
+    "static/css/main.5637f433.chunk.css.map": "/static/css/main.5637f433.chunk.css.map",
+    "static/js/2.7b5d8c9d.chunk.js.LICENSE.txt": "/static/js/2.7b5d8c9d.chunk.js.LICENSE.txt",
     "static/media/bearmaps.3923b7e5.png": "/static/media/bearmaps.3923b7e5.png",
     "static/media/email-icon.ab75f124.svg": "/static/media/email-icon.ab75f124.svg",
     "static/media/facebook-icon.92ce532d.svg": "/static/media/facebook-icon.92ce532d.svg",
@@ -30,10 +30,10 @@
     "static/media/tgif-3.e133fd19.png": "/static/media/tgif-3.e133fd19.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1be70c3.js",
+    "static/js/runtime-main.1c6acf1e.js",
     "static/css/2.2aa38b9c.chunk.css",
-    "static/js/2.ec360019.chunk.js",
-    "static/css/main.055c5ee2.chunk.css",
-    "static/js/main.87db5d17.chunk.js"
+    "static/js/2.7b5d8c9d.chunk.js",
+    "static/css/main.5637f433.chunk.css",
+    "static/js/main.ac48c132.chunk.js"
   ]
 }
