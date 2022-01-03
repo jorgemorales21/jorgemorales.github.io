@@ -16,15 +16,15 @@ function AboutFrame() {
                         <span className='berkeley'> UC Berkeley</span>.
                     </div>
                     <div className='text2'>
-                        I'm from San Diego, CA so moving to the
+                        I'm from <span className='sanDiego'>San Diego, CA</span> so moving to the
                         bay area brought its own set of weather challenges.
                     </div>
                     <div className='text3'>
-                        I am currently exploring all the different subfields of software development. 
+                        I am currently exploring all the different subfields of <span className='softwareDev'>software development</span>. 
                     </div>
                 </div>
                 <div className='rightFrame'>
-                    <div className='imgContainer'>
+                    <div className='aboutImgContainer'>
                         <img className='profilePic'
                         src={profilePic}
                         alt="Jorge in Front of Sather Gate"

@@ -6,6 +6,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    overflow: hidden;
 }
 
 .centerTextContainer {
@@ -75,4 +76,69 @@
     position: absolute;
     top: 140px;
     right: 00px;
+}
+
+.floatingDownUp {   
+    animation-name: floatingDownUp; 
+    animation-duration: 7s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+} 
+  
+@keyframes floatingDownUp { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(0, 30px); } 
+    100%   { transform: translate(0, -0px); }     
+}
+
+.floatingUpDown {   
+    animation-name: floatingUpDown; 
+    animation-duration: 9s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+} 
+  
+@keyframes floatingUpDown { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(0, -30px); } 
+    100%   { transform: translate(0, -0px); }     
+}
+
+.floatingLeftRight {   
+    animation-name: floatingLeftRight; 
+    animation-duration: 10s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+}
+  
+@keyframes floatingLeftRight { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(-50px, 0px); } 
+    100%   { transform: translate(0, -0px); }     
+}
+
+.floatingDiagonalUpLeft {   
+    animation-name: floatingDiagonalUpLeft; 
+    animation-duration: 13s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+}
+  
+@keyframes floatingDiagonalUpLeft { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(30px, 30px); } 
+    100%   { transform: translate(0, -0px); }     
+}
+
+.floatingDiagonalUpRight {   
+    animation-name: floatingDiagonalUpRight; 
+    animation-duration: 10s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+}
+  
+@keyframes floatingDiagonalUpRight { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(30px, -30px); } 
+    100%   { transform: translate(0, -0px); }     
 }

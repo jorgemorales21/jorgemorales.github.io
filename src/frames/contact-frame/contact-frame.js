@@ -29,7 +29,7 @@ function ContactFrame() {
                     </div>
                     <div className='githubIconContainer icon'>
                         <a href="https://github.com/jorgemorales21" target="_blank">
-                            <img className='githubIcon'
+                            <img className='githubIcon icon'
                             src={githubIcon}
                             alt="Github Icon"
                             />
@@ -37,7 +37,7 @@ function ContactFrame() {
                     </div>
                     <div className='instagramIconContainer icon'>
                         <a href="https://www.instagram.com/thejorgemorales/" target="_blank">
-                            <img className='instagramIcon'
+                            <img className='instagramIcon icon'
                             src={instagramIcon}
                             alt="Instagram Icon"
                             />
@@ -45,7 +45,7 @@ function ContactFrame() {
                     </div>
                     <div className='facebookIconContainer icon'>
                         <a href="https://www.facebook.com/jorge.morales.7121614/" target="_blank">
-                            <img className='facebookIcon'
+                            <img className='facebookIcon icon'
                             src={facebookIcon}
                             alt="Facebook Icon"
                             />
@@ -53,7 +53,7 @@ function ContactFrame() {
                     </div>
                     <div className='linkedinIconContainer icon'>
                         <a href="https://www.linkedin.com/in/jorge-morales21/" target="_blank">
-                            <img className='linkedinIcon'
+                            <img className='linkedinIcon icon'
                             src={linkedinIcon}
                             alt="Linkedin Icon"
                             />
@@ -61,7 +61,7 @@ function ContactFrame() {
                     </div>
                     <div className='backToTopContainer'>
                         <a href="#home">
-                            <img className='backToTopIcon'
+                            <img className='backToTopIcon icon'
                             src={backToTopIcon}
                             alt="Back To Top"
                             />

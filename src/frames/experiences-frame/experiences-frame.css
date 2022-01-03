@@ -22,3 +22,8 @@
     justify-content: center;
     position: relative; */
 }
+
+.uavsContainer {
+    object-fit: contain;
+    height: 85%;
+}

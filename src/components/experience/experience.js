@@ -1,5 +1,4 @@
 import React from 'react';
-import ExperiencesFrame from '../../frames/experiences-frame/experiences-frame';
 import "./experience.css";
 
 function Experience({classNames, headerText, bodyText}) {

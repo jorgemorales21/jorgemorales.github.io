@@ -9,19 +9,6 @@ function NavigationBar() {
                 <a href='#experiences'>experience</a>
                 <a href='#projects'>projects</a>
                 <a href='#contact'>contact</a>
-                
-                {/* <div className='about'>
-                    about
-                </div>
-                <div className='experience'>
-                    experience
-                </div>
-                <div className='projects'>
-                    projects
-                </div>
-                <div className='contact'>
-                    contact
-                </div> */}
             </div>
         </div>
     );
